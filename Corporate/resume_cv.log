@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.16)  11 JUL 2017 13:10
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.16)  12 JUL 2017 12:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1168,7 +1168,7 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
 )
 (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 77.
+(Font)              scaled to size 8.0pt on input line 76.
  [1
 
 ]) [2]
@@ -1226,6 +1226,6 @@ Here is how much of TeX's memory you used:
  42961 multiletter control sequences out of 15000+600000
  6536 words of font info for 79 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 72i,11n,89p,10385b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10385b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_cv.pdf (3 pages).
